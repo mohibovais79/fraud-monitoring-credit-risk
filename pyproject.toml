@@ -1,0 +1,15 @@
+[project]
+name = "fraud-monitoring-credit-risk"
+version = "0.1.0"
+requires-python = ">=3.15"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.1",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+]

@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local-only folders (not pushed)
+backups/
+Interview Case Study/
